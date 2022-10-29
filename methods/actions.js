@@ -3,6 +3,7 @@ var jwt = require('jwt-simple')
 var config = require('../config/dbconfig')
 
 
+
 var functions = {
     // getUsers: function (req,res){
     //     user.find({
@@ -58,6 +59,8 @@ var functions = {
             }
         })
     },
+
+    
     
     
 
